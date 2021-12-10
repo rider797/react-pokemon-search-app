@@ -1,0 +1,71 @@
+body,
+html {
+  margin: 0;
+  padding: 0;
+  background: #ffcc03;
+  border: dotted 4px #ef5350;
+  overflow: auto;
+}
+
+.App {
+  height: 100vh;
+  font-family: sans-serif;
+  color: #003a70;
+  text-align: center;
+  font-family: "Press Start 2P", cursive;
+}
+
+button {
+  background: #3d7dca;
+  color: #79e75e;
+  border: solid #003a70;
+  border-radius: 25px;
+  margin: 5px;
+  padding: 10px;
+  font-family: "Press Start 2P", cursive;
+}
+
+.back {
+  background: #ef5350;
+  padding: 5px 10px;
+  color: #003a70;
+  border: solid #003a70;
+  border-radius: 25px;
+  margin: 5px;
+  padding: 10px;
+}
+
+.outputText {
+  margin-top: 15px;
+  font-family: "Press Start 2P", cursive;
+}
+
+.card {
+  padding: 10px;
+  margin-top: 15px;
+  border: solid #4c9ae4;
+  background: #0b213b;
+  border-radius: 25px;
+  font-family: "Press Start 2P", cursive;
+}
+
+.title {
+  height: 200px;
+  width: 450px;
+}
+
+.input {
+  margin-top: 10px;
+}
+
+#inputField {
+  margin-top: 20px;
+  height: 30px;
+  width: 200px;
+  font-size: 16px;
+  font-family: "Press Start 2P", cursive;
+}
+
+.footer {
+  margin-top: 100px;
+}
